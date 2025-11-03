@@ -1,0 +1,26 @@
+{
+    "advanced": {
+        "accuracy": 0.9270833134651184,
+        "precision": 0.9287581699346406,
+        "recall": 0.9270833333333334,
+        "f1": 0.9270120560443141,
+        "time": 1815.0024898052216,
+        "size": 96.27908611297607
+    },
+    "baseline": {
+        "accuracy": 0.87,
+        "precision": 0.86,
+        "recall": 0.87,
+        "f1": 0.86,
+        "time": 45,
+        "size": 2.1
+    },
+    "intermediate": {
+        "accuracy": 0.92,
+        "precision": 0.91,
+        "recall": 0.92,
+        "f1": 0.91,
+        "time": 120,
+        "size": 3.8
+    }
+}
